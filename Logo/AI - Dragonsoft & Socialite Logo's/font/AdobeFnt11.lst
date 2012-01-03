@@ -1,0 +1,633 @@
+%!Adobe-FontList 1.11
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Bold
+FamilyName:Akzidenz-Grotesk BQ
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Bold
+MenuName:Akzidenz-Grotesk BQ
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31716
+FileModTime:1179417600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-BdCnd
+FamilyName:Akzidenz-Grotesk BQ Condensed
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Bold Condensed
+MenuName:Akzidenz-Grotesk BQ Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLDCOND.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29796
+FileModTime:1179417598
+WeightClass:700
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-BdCndAlt
+FamilyName:Akzidenz-Grotesk BQ Condensed A
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Bold Condensed Alt
+MenuName:Akzidenz-Grotesk BQ Condensed A
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLDCONDALT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29952
+FileModTime:1179417598
+WeightClass:700
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-BdCndIt
+FamilyName:Akzidenz-Grotesk BQ Condensed
+StyleName:Bold Italic
+FullName:Akzidenz-Grotesk BQ Bold Condensed Italic
+MenuName:Akzidenz-Grotesk BQ Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLDCONDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30028
+FileModTime:1179417600
+WeightClass:700
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-BoldExt
+FamilyName:Akzidenz-Grotesk BQ Extended
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Bold Extended
+MenuName:Akzidenz-Grotesk BQ Extended
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLDEXTENDED.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34076
+FileModTime:1179417600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-BoldExtIt
+FamilyName:Akzidenz-Grotesk BQ Extended
+StyleName:Bold Italic
+FullName:Akzidenz-Grotesk BQ Bold Extended Italic
+MenuName:Akzidenz-Grotesk BQ Extended
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLDEXTENDEDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34180
+FileModTime:1179417600
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-BoldItalic
+FamilyName:Akzidenz-Grotesk BQ
+StyleName:Bold Italic
+FullName:Akzidenz-Grotesk BQ Bold Italic
+MenuName:Akzidenz-Grotesk BQ
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-BOLDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32576
+FileModTime:1179417600
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Cnd
+FamilyName:Akzidenz-Grotesk BQ Condensed
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Condensed
+MenuName:Akzidenz-Grotesk BQ Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-COND.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31084
+FileModTime:1179417600
+WeightClass:500
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-CndIt
+FamilyName:Akzidenz-Grotesk BQ Condensed
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Condensed Italic
+MenuName:Akzidenz-Grotesk BQ Condensed
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-CONDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29824
+FileModTime:1179417600
+WeightClass:500
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Ext
+FamilyName:Akzidenz-Grotesk BQ Extended
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Extended
+MenuName:Akzidenz-Grotesk BQ Extended
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTENDED.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34612
+FileModTime:1179417600
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-ExtIt
+FamilyName:Akzidenz-Grotesk BQ Extended
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Extended Italic
+MenuName:Akzidenz-Grotesk BQ Extended
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTENDEDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31924
+FileModTime:1179417600
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-XBold
+FamilyName:Akzidenz-Grotesk BQ Extra
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Extra Bold
+MenuName:Akzidenz-Grotesk BQ Extra
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTRABOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29624
+FileModTime:1179417604
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-XBoldAlt
+FamilyName:Akzidenz-Grotesk BQ Extra Alt
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Extra Bold Alt
+MenuName:Akzidenz-Grotesk BQ Extra Alt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTRABOLDALT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29728
+FileModTime:1179417604
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-XBdCnd
+FamilyName:Akzidenz-Grotesk BQ Extra Conde
+StyleName:Bold
+FullName:Akzidenz-Grotesk BQ Extra Bold Condensed
+MenuName:Akzidenz-Grotesk BQ Extra Conde
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTRABOLDCOND.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29736
+FileModTime:1179417604
+WeightClass:700
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-XBdCndIt
+FamilyName:Akzidenz-Grotesk BQ Extra Conde
+StyleName:Bold Italic
+FullName:Akzidenz-Grotesk BQ Extra Bold Condensed Italic
+MenuName:Akzidenz-Grotesk BQ Extra Conde
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTRABOLDCONDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28624
+FileModTime:1179417604
+WeightClass:700
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-XBoldIt
+FamilyName:Akzidenz-Grotesk BQ Extra
+StyleName:Bold Italic
+FullName:Akzidenz-Grotesk BQ Extra Bold Italic
+MenuName:Akzidenz-Grotesk BQ Extra
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-EXTRABOLDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30668
+FileModTime:1179417604
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Italic
+FamilyName:Akzidenz-Grotesk BQ
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Italic
+MenuName:Akzidenz-Grotesk BQ
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-ITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34088
+FileModTime:1179417600
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Light
+FamilyName:Akzidenz-Grotesk BQ Light
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Light
+MenuName:Akzidenz-Grotesk BQ Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:33768
+FileModTime:1179417602
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LigCnd
+FamilyName:Akzidenz-Grotesk BQ Light Conde
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Light Condensed
+MenuName:Akzidenz-Grotesk BQ Light Conde
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTCOND.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29724
+FileModTime:1179417600
+WeightClass:300
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LigCndIt
+FamilyName:Akzidenz-Grotesk BQ Light Conde
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Light Condensed Italic
+MenuName:Akzidenz-Grotesk BQ Light Conde
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTCONDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32476
+FileModTime:1179417600
+WeightClass:300
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LigExt
+FamilyName:Akzidenz-Grotesk BQ Light Exten
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Light Extended
+MenuName:Akzidenz-Grotesk BQ Light Exten
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTEXTENDED.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:36512
+FileModTime:1179417602
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LigExtIt
+FamilyName:Akzidenz-Grotesk BQ Light Exten
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Light Extended Italic
+MenuName:Akzidenz-Grotesk BQ Light Exten
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTEXTENDEDITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:35196
+FileModTime:1179417602
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LightIt
+FamilyName:Akzidenz-Grotesk BQ Light
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Light Italic
+MenuName:Akzidenz-Grotesk BQ Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31564
+FileModTime:1179417602
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LigItOsF
+FamilyName:Akzidenz-Grotesk BQ Light with 
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Light Italic with OldStyle Figures
+MenuName:Akzidenz-Grotesk BQ Light with 
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTITALICOSF.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31740
+FileModTime:1179417602
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-LightSC
+FamilyName:Akzidenz-Grotesk BQ Light Small
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Light Small Caps & OldStyle Figures
+MenuName:Akzidenz-Grotesk BQ Light Small
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-LIGHTSC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32388
+FileModTime:1179417602
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Medium
+FamilyName:Akzidenz-Grotesk BQ
+StyleName:Medium
+FullName:Akzidenz-Grotesk BQ Medium
+MenuName:Akzidenz-Grotesk BQ
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-MEDIUM.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31440
+FileModTime:1179417604
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-MdCndAlt
+FamilyName:Akzidenz-Grotesk BQ Condensed A
+StyleName:Medium
+FullName:Akzidenz-Grotesk BQ Medium Condensed Alt
+MenuName:Akzidenz-Grotesk BQ Condensed A
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-MEDIUMCONDALT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27608
+FileModTime:1179417602
+WeightClass:500
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-MdCndItAlt
+FamilyName:Akzidenz-Grotesk BQ Condensed A
+StyleName:Medium Italic
+FullName:Akzidenz-Grotesk BQ Medium Condensed Italic Alt
+MenuName:Akzidenz-Grotesk BQ Condensed A
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-MEDIUMCONDITALICALT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30016
+FileModTime:1179417602
+WeightClass:500
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-Super
+FamilyName:Akzidenz-Grotesk BQ Super
+StyleName:Regular
+FullName:Akzidenz-Grotesk BQ Super
+MenuName:Akzidenz-Grotesk BQ Super
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-SUPER.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32284
+FileModTime:1179417604
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AkzidenzGroteskBQ-SuperItalic
+FamilyName:Akzidenz-Grotesk BQ Super
+StyleName:Italic
+FullName:Akzidenz-Grotesk BQ Super Italic
+MenuName:Akzidenz-Grotesk BQ Super
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\krs.IZAR\Desktop\Dragonsoft\new CI\Font\AKZIDENZGROTESK-SUPERITALIC.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29956
+FileModTime:1179417604
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
